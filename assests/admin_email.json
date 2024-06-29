@@ -1,0 +1,46 @@
+﻿{
+    "users": [
+       
+        {
+            "RegisterNumber": "22BDS0047",
+            "StudentName": "LAVAN GUPTA",
+            "EmailId": "lavan.gupta2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2318",
+            "StudentName": "HITESH SHIVKUMAR",
+            "EmailId": "hitesh.shivkumar2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0069",
+            "StudentName": "MERRIL BAIJU MALIAKAL",
+            "EmailId": "merril.baiju2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0021",
+            "StudentName": "HARIPRASATH R",
+            "EmailId": "hariprasath.r2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0606",
+            "StudentName": "RONIT AHUJA",
+            "EmailId": "ronit.ahuja2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0116",
+            "StudentName": "Dhruv Jaipuria",
+            "EmailId": "dhruv.jaipuria2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0059",
+            "StudentName": "DHRUV AGRAWAL",
+            "EmailId": "dhruv.agrawal2022a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0148",
+            "StudentName": "ARYAN CHOPRA",
+            "EmailId": "aryan.chopra2022@vitstudent.ac.in"
+        }
+    ]
+    
+}

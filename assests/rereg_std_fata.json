@@ -1,0 +1,1135 @@
+﻿{
+    "users": [
+        {
+            "RegisterNumber": "21BCE0822",
+            "StudentName": "kavi",
+            "EmailId": "kavikkannank@gmail.com"
+        },
+        {
+            "RegisterNumber": "21BCE0822",
+            "StudentName": "ANTAREEP MAJUMDAR",
+            "EmailId": "antareep.majumdar2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0116",
+            "StudentName": "Dhruv Jaipuria",
+            "EmailId": "dhruv.jaipuria2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BCE2967",
+            "StudentName": "GANGWANI ALITA RAJESH",
+            "EmailId": "gangwanialita.rajesh2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BCE3692",
+            "StudentName": "ABHIJAI S",
+            "EmailId": "abhijai.s2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BEC0306",
+            "StudentName": "ARAVINDHAA V",
+            "EmailId": "aravindhaa.v2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BEC0424",
+            "StudentName": "UJWAL KOMARAVOLU",
+            "EmailId": "ujwal.komaravolu2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BEC0594",
+            "StudentName": "JALADI DHANSUKH SIVA RAMAKRISHNA",
+            "EmailId": "dhansukh.2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BEI0106",
+            "StudentName": "VISHAAL KALLAGUNTA",
+            "EmailId": "vishaal.kallagunta2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BKT0038",
+            "StudentName": "HARIHARAN A",
+            "EmailId": "hariharan.a2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "21BMM0069",
+            "StudentName": "SRI RENGANATHAN S",
+            "EmailId": "srirenganathan.s2021@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCA0026",
+            "StudentName": "PRATIK AGARWALLA",
+            "EmailId": "pratik.agarwalla2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCA0219",
+            "StudentName": "ARUN PRASAADH R",
+            "EmailId": "arunprasaadh.r2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCB0166",
+            "StudentName": "VANCHA GARG",
+            "EmailId": "vancha.garg2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0143",
+            "StudentName": "SHREYA GUPTA",
+            "EmailId": "shreya.gupta2022a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0145",
+            "StudentName": "MEHTA DHRUVIN DHARMESH",
+            "EmailId": "dhruvin.mehta2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0271",
+            "StudentName": "NIKHITA JAMES",
+            "EmailId": "nikhita.james2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0272",
+            "StudentName": "ANVITA MANNE",
+            "EmailId": "anvita.manne2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0363",
+            "StudentName": "CHIRAG",
+            "EmailId": "chirag.2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0393",
+            "StudentName": "VEDANT SETH",
+            "EmailId": "vedant.seth2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0490",
+            "StudentName": "ABHAY SINGH",
+            "EmailId": "abhay.singh2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0499",
+            "StudentName": "ANUBHAW RAMAN",
+            "EmailId": "anubhaw.raman2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0504",
+            "StudentName": "NIKHIL SHARMA",
+            "EmailId": "nikhil.sharma2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0574",
+            "StudentName": "GOKUL KRISHNAN NAIR",
+            "EmailId": "gokulkrishnan.nair2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0694",
+            "StudentName": "V PADMAPRIYA",
+            "EmailId": "padmapriya.v2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE0916",
+            "StudentName": "NEYA BALAJI",
+            "EmailId": "neya.balaji2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2318",
+            "StudentName": "HITESH SHIVKUMAR",
+            "EmailId": "hitesh.shivkumar2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2373",
+            "StudentName": "HARSHINI SUNKARA",
+            "EmailId": "harshini.sunkara2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2438",
+            "StudentName": "SHASHWAT CHAUDHARY",
+            "EmailId": "shashwat.chaudhary2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2654",
+            "StudentName": "ASHER GEORGE PAUL",
+            "EmailId": "ashergeorge.paul2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2686",
+            "StudentName": "AMITH JAIN ",
+            "EmailId": "amithjain.d2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE2723",
+            "StudentName": "KARTHIK KRISHNAN S",
+            "EmailId": "karthik.krishnan2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3082",
+            "StudentName": "RIDHIMAN SABHARWAL",
+            "EmailId": "ridhiman.sabharwal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3118",
+            "StudentName": "AKSHAT SINGH",
+            "EmailId": "akshat.singh2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3169",
+            "StudentName": "APOORVA SALUJA",
+            "EmailId": "apoorva.saluja2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3200",
+            "StudentName": "NIPUN Y",
+            "EmailId": "nipun.y2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3218",
+            "StudentName": "HARIRAAM R",
+            "EmailId": "hariraam.2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3224",
+            "StudentName": "GNANA NAWIN T",
+            "EmailId": "gnananawin.t2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3271",
+            "StudentName": "MANISH R",
+            "EmailId": "manish.r2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3292",
+            "StudentName": "SHREYAS SANTOSH KUMAR",
+            "EmailId": "shreyas.santosh2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3557",
+            "StudentName": "ROHITH NAIR",
+            "EmailId": "rohith.nair2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3760",
+            "StudentName": "c",
+            "EmailId": "dhanvanth.y2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3798",
+            "StudentName": "MANASH KUMAR NEPAL",
+            "EmailId": "manashkumar.nepal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3816",
+            "StudentName": "JASWANTH T",
+            "EmailId": "jaswanth.t2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCE3970",
+            "StudentName": "KONDURU LITHIKSHA",
+            "EmailId": "konduru.lithiksha2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCI0025",
+            "StudentName": "SHAIK MOHAMMAD ARIF DADA",
+            "EmailId": "shaik.mohammad2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCI0061",
+            "StudentName": "SAQUIB HUSSAIN",
+            "EmailId": "saquib.hussain2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCI0070",
+            "StudentName": "DEEPAK KUMAR SAW",
+            "EmailId": "deepakkumar.saw2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCI0130",
+            "StudentName": "PRAKHAR PRANAL",
+            "EmailId": "prakhar.pranal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCI0156",
+            "StudentName": "PRANAY SHAH",
+            "EmailId": "pranay.shah2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0059",
+            "StudentName": "DHRUV AGRAWAL",
+            "EmailId": "dhruv.agrawal2022a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0068",
+            "StudentName": "SHREY SETHIA",
+            "EmailId": "shrey.sethia2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0107",
+            "StudentName": "HARISH AGGARWAL",
+            "EmailId": "harish.aggarwal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0191",
+            "StudentName": "CHANDAK GAURAV DINESH",
+            "EmailId": "gaurav.dinesh2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0198",
+            "StudentName": "JATIN GOYAL",
+            "EmailId": "jatin.goyal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0220",
+            "StudentName": "ANUPAMA N",
+            "EmailId": "anupama.nachiappan2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BCT0303",
+            "StudentName": "ARJUN SREEDHAR",
+            "EmailId": "arjun.sreedhar2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BDS0047",
+            "StudentName": "LAVAN GUPTA",
+            "EmailId": "lavan.gupta2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BDS0253",
+            "StudentName": "RAHUL RAJPAL",
+            "EmailId": "rahul.rajpal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BDS0336",
+            "StudentName": "HARSHIT SHARMA",
+            "EmailId": "harshit.sharma2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BDS0349",
+            "StudentName": "P NAMAN KUMAR",
+            "EmailId": "namankumar.p2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0006",
+            "StudentName": "NIMISH GULGHANE",
+            "EmailId": "nimish.gulghane2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0104",
+            "StudentName": "NIBEDITA DEB",
+            "EmailId": "nibedita.deb2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0134",
+            "StudentName": "SATYAM SAURAV",
+            "EmailId": "satyam.saurav2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0185",
+            "StudentName": "NAVEEN SENTHIL KUMAR",
+            "EmailId": "naveen.2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0340",
+            "StudentName": "SOHAM ASHISH PANDE",
+            "EmailId": "soham.pande2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0353",
+            "StudentName": "BHUVAN SONAWANE",
+            "EmailId": "bhuvan.sonawane2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0475",
+            "StudentName": "VIHAN UTKARSH SHUKLA",
+            "EmailId": "vihan.shukla2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0536",
+            "StudentName": "ANAGH VERMA",
+            "EmailId": "anagh.verma2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0609",
+            "StudentName": "SIDDHANTH GUPTA",
+            "EmailId": "siddhanth.gupta2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0696",
+            "StudentName": "SANAPUTUR SAI CHARAN",
+            "EmailId": "sanaputursai.charan2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0738",
+            "StudentName": "SUNSITHA VARSHINI PUGALAENDHI",
+            "EmailId": "sunsitha.varshini2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0895",
+            "StudentName": "RAVURU THARUN ",
+            "EmailId": "tharun.ravuru2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0981",
+            "StudentName": "AADYA MOHANTY",
+            "EmailId": "aadya.mohanty2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEC0982",
+            "StudentName": "PAI SHANTANU HARISH ",
+            "EmailId": "shantanuharish.pai2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEE0007",
+            "StudentName": "SUMEDHA GHOSH",
+            "EmailId": "sumedha.ghosh2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEE0008",
+            "StudentName": "DHAS HARSHAVARDHAN MANORANJAN ",
+            "EmailId": "harshavardhan.d2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEE0121",
+            "StudentName": "YELULKAR SHAUNAK NANDKUMAR ",
+            "EmailId": "shaunak.nandkumar2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BEE0242",
+            "StudentName": "R THUSHAR KUMAR REDDY",
+            "EmailId": "thusharkumar.reddyr2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0083",
+            "StudentName": "ARNAV PARASHAR",
+            "EmailId": "arnav.parashar2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0148",
+            "StudentName": "ARYAN CHOPRA",
+            "EmailId": "aryan.chopra2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0259",
+            "StudentName": "ARNAV GUPTA",
+            "EmailId": "arnav.gupta2022b@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0374",
+            "StudentName": "PRAVEEN KUMAR E",
+            "EmailId": "praveenkumar.e2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BIT0608",
+            "StudentName": "PRABAL DUBEY",
+            "EmailId": "prabal.dubey2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BKT0154",
+            "StudentName": "AKULA MAHITA LAXMI",
+            "EmailId": "akulamahita.laxmi2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BMA0039",
+            "StudentName": "GAUTAM KHANDELWAL",
+            "EmailId": "gautam.khandelwal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0018",
+            "StudentName": "JONATHAN JACOB",
+            "EmailId": "jonathan.jacob2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0096",
+            "StudentName": "AYUSH ROY",
+            "EmailId": "ayush.roy2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0225",
+            "StudentName": "C ABHEESHT KOUSHAL ",
+            "EmailId": "abheesht.koushal2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0389",
+            "StudentName": "GIJARE VED UDAY",
+            "EmailId": "ved.gijare2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0406",
+            "StudentName": "APINAYAN M",
+            "EmailId": "apinayan.m2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0606",
+            "StudentName": "RONIT AHUJA",
+            "EmailId": "ronit.ahuja2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0647",
+            "StudentName": "YASH KHANNA",
+            "EmailId": "yash.khanna2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22BME0699",
+            "StudentName": "BAIDURYA DAS",
+            "EmailId": "baidurya.das2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MCA0002",
+            "StudentName": "BASHEER AHMED K",
+            "EmailId": "basheerahmed.k2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0001",
+            "StudentName": "NITHILA G",
+            "EmailId": "nithila.g2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0015",
+            "StudentName": "NEETHU K SHINE",
+            "EmailId": "neethu.kshine2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0087",
+            "StudentName": "UTKARSH KUMAR",
+            "EmailId": "utkarsh.kumar2022a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0097",
+            "StudentName": "ROSHAN ABHISHEK P",
+            "EmailId": "roshanabhishek.p2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0143",
+            "StudentName": "MUTHU PRIYANANDHINI M D",
+            "EmailId": "muthu.priyanandhini2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIC0157",
+            "StudentName": "BASAVARAJU KRISHNA KOUSHIK",
+            "EmailId": "krishna.koushik2022a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0017",
+            "StudentName": "N HARI SAI VIGNESH",
+            "EmailId": "harisai.vigneshn2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0021",
+            "StudentName": "HARIPRASATH R",
+            "EmailId": "hariprasath.r2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0039",
+            "StudentName": "SANTHANA KRISHNAN A",
+            "EmailId": "santhanakrishnan.a2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0044",
+            "StudentName": "ABDUR RAHUMAN J",
+            "EmailId": "abdurrahuman.j2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0064",
+            "StudentName": "KAVIKKANNAN K",
+            "EmailId": "kavikkannan.k2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0069",
+            "StudentName": "MERRIL BAIJU MALIAKAL",
+            "EmailId": "merril.baiju2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0087",
+            "StudentName": "NIMISH SHARMA",
+            "EmailId": "nimish.sharma2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0198",
+            "StudentName": "BUSI REETHU KRISHNA",
+            "EmailId": "busireethu.krishna2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0272",
+            "StudentName": "VISWANATHAN G",
+            "EmailId": "viswanathan.g2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0300",
+            "StudentName": "PRAVEENKUMAR G",
+            "EmailId": "praveenkumar.g2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MID0304",
+            "StudentName": "MAYANK DASH",
+            "EmailId": "mayank.dash2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIS0034",
+            "StudentName": "MANMOHAN SINGH BISHT",
+            "EmailId": "manmohansingh.bisht2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIS0442",
+            "StudentName": "PRASURJYA BORUAH",
+            "EmailId": "prasurjya.boruah2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIS0446",
+            "StudentName": "VANSHIKA",
+            "EmailId": "vanshika.2022b@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIS0470",
+            "StudentName": "SOURISH BHATTACHARJEE",
+            "EmailId": "sourish.b2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIS0499",
+            "StudentName": "ANSH VOHRA",
+            "EmailId": "ansh.vohra2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIY0055",
+            "StudentName": "SATISH PREM ANAND",
+            "EmailId": "satishprem.anand2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "22MIY0060",
+            "StudentName": "DHIRANJIT DAIMARY",
+            "EmailId": "dhiranjit.daimary2022@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BAI0025",
+            "StudentName": "DODDA VISHAL MANIKANTA KUMAR",
+            "EmailId": "vishal.manikanta2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BBA0015",
+            "StudentName": "MOHAMED AYUB K A",
+            "EmailId": "mohamedayub.ka2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BBS0001",
+            "StudentName": "HARSHAN R P",
+            "EmailId": "harshan.rp2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCB0041",
+            "StudentName": "PAWAR JANAVI SANJAY",
+            "EmailId": "janavisanjay.pawar2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCB0049",
+            "StudentName": "KESHAV AGARWAL",
+            "EmailId": "keshav.agarwal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCB0079",
+            "StudentName": "SAMPURNA DAS",
+            "EmailId": "sampurna.das2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCB0135",
+            "StudentName": "MORISETTY VENKATA SAI AKHIL TEJA",
+            "EmailId": "morisetty.venkata2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCB0159",
+            "StudentName": "AKSHAY BADGUJAR",
+            "EmailId": "akshay.2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0089",
+            "StudentName": "D CHAITANYA REDDY",
+            "EmailId": "chaitanyareddy.d2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0093",
+            "StudentName": "SPARSH AGRAWAL",
+            "EmailId": "sparsh.agrawal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0337",
+            "StudentName": "GUN SHARMA",
+            "EmailId": "gun.sharma2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0374",
+            "StudentName": "DHRUV SINGH",
+            "EmailId": "dhruv.singh2023a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0390",
+            "StudentName": "GUPTA RISHABH MANISH",
+            "EmailId": "guptarishabh.manish2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0411",
+            "StudentName": "PARTH GOYAL",
+            "EmailId": "parth.goyal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0468",
+            "StudentName": "VIHAAN BISHNOI",
+            "EmailId": "vihaan.bishnoi2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0586",
+            "StudentName": "HARSHIT SAI KARANAM",
+            "EmailId": "harshitsai.karanam2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0588",
+            "StudentName": "ARNAV KADYAN",
+            "EmailId": "arnav.kadyan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0638",
+            "StudentName": "AARYAN UPADHYAY",
+            "EmailId": "aaryan.upadhyay2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0701",
+            "StudentName": "MAHENDRA SAJJAN CHOUDHARY",
+            "EmailId": "mahendra.sajjan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0786",
+            "StudentName": "NICHELLE ASHITA D SA",
+            "EmailId": "nichelleashita.dsa2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0816",
+            "StudentName": "VEDANT PRASHANT PATIL",
+            "EmailId": "vedant.prashant2023a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0971",
+            "StudentName": "ROHAN CHANDRU M",
+            "EmailId": "rohan.chandru2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE0987",
+            "StudentName": "V SAKTHI NARAYAN ",
+            "EmailId": "sakthinarayan.v2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE2037",
+            "StudentName": "SUREN ELANGO",
+            "EmailId": "suren.elango2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE2060",
+            "StudentName": "AYAAN SEHGAL",
+            "EmailId": "ayaan.sehgal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE2080",
+            "StudentName": "SHASHWAT KUMAR",
+            "EmailId": "shashwat.kumar2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE2090",
+            "StudentName": "HAMSINI NATARAJAN",
+            "EmailId": "hamsini.natarajan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCE2287",
+            "StudentName": "REYANSH ASHOK",
+            "EmailId": "reyansh.ashok2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCI0097",
+            "StudentName": "ARITRA DUBEY",
+            "EmailId": "aritra.dubey2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCI0224",
+            "StudentName": "BISHAL PAUL",
+            "EmailId": "bishal.paul2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0020",
+            "StudentName": " JAIN ARYAN RAMESH",
+            "EmailId": "aryanramesh.jain2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0150",
+            "StudentName": "MURALI KRISHNAN RAJAPPA",
+            "EmailId": "murali.krishnan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0169",
+            "StudentName": "UTKARSH PERSAI",
+            "EmailId": "utkarsh.persai2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0205",
+            "StudentName": "YASH CHAUBEY",
+            "EmailId": "yash.chaubey2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0242",
+            "StudentName": "SATVIK SHARMA",
+            "EmailId": "satvik.sharma2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BCT0253",
+            "StudentName": "PUSHKAL GUPTA",
+            "EmailId": "pushkal.gupta2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0048",
+            "StudentName": "ANISHA DHOOT",
+            "EmailId": "anishaashok.dhoot2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0051",
+            "StudentName": "ROHIT PHANIRAM SAKAMURI",
+            "EmailId": "rohit.phaniram2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0055",
+            "StudentName": "YASH HIRANI",
+            "EmailId": "yash.hirani2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0056",
+            "StudentName": "JAYATI JAIN",
+            "EmailId": "jayati.jain2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0064",
+            "StudentName": "SAANVI SHARMA",
+            "EmailId": "saanvi.sharma2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0081",
+            "StudentName": "VYOM KHURANA",
+            "EmailId": "vyom.khurana2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0098",
+            "StudentName": "DADHANIA NISARG MALAYKUMAR",
+            "EmailId": "dadhania.nisarg2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0165",
+            "StudentName": "PURNAYOO PURNENDU NAYAK",
+            "EmailId": "purnayoo.purnendu2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0220",
+            "StudentName": "ARYA KAUSHAL PAL",
+            "EmailId": "arya.pal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0315",
+            "StudentName": "SUDEEP SHARMA",
+            "EmailId": "sudeep.sharma2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BDS0329",
+            "StudentName": "DIVYA PRAKASH YADAV",
+            "EmailId": "divyaprakash.yadav2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEC0065",
+            "StudentName": "SHLOKE BINANI",
+            "EmailId": "shloke.binani2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEC0159",
+            "StudentName": "ASHWINDEN S M",
+            "EmailId": "ashwinden.sm2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEC0283",
+            "StudentName": "RAAJAPRASANNA M",
+            "EmailId": "raajaprasanna.m2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEC0324",
+            "StudentName": "DHRUV PATEL",
+            "EmailId": "dhruv.patel2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEC0387",
+            "StudentName": "AVIRAL JHA",
+            "EmailId": "aviral.jha2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEE0081",
+            "StudentName": "MD FURQAAN ANSARI",
+            "EmailId": "mdfurqaan.ansari2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEI0010",
+            "StudentName": "KESHA SHAH",
+            "EmailId": "kesha.shah2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEI0016",
+            "StudentName": "RUDRANSH JENA",
+            "EmailId": "rudransh.jena2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BEL0015",
+            "StudentName": "KHUSHI SRIVASTAVA",
+            "EmailId": "khushi.srivastava2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BID0014",
+            "StudentName": "AADITHYA DEV H",
+            "EmailId": "aadithyadev.h2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BIT0047",
+            "StudentName": "SHAH KEVIN KETAN",
+            "EmailId": "shahkevin.ketan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BIT0230",
+            "StudentName": "HITANSHI ARORA",
+            "EmailId": "hitanshi.arora2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BIT0272",
+            "StudentName": "ANANYA AGARWAL",
+            "EmailId": "ananya.agarwal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BIT0346",
+            "StudentName": "THANUSHA E",
+            "EmailId": "thanusha.e2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BKT0035",
+            "StudentName": "KAPILAN KATHIRVEL",
+            "EmailId": "kapilan.kathirvel2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BKT0051",
+            "StudentName": "R VARUN",
+            "EmailId": "varun.r2023a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BKT0071",
+            "StudentName": "UTKARSH",
+            "EmailId": "utkarsh.2023a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BKT0090",
+            "StudentName": "VIBHOR JAISWAL",
+            "EmailId": "vibhor.jaiswal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BMA0021",
+            "StudentName": "AKSHAT SETH",
+            "EmailId": "akshat.seth2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BMA0024",
+            "StudentName": "GOURANG VIJ",
+            "EmailId": "gourang.vij2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BMA0026",
+            "StudentName": "ISHAN VARDHAN",
+            "EmailId": "ishan.vardhan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0003",
+            "StudentName": "MOHAMED THANZIL M",
+            "EmailId": "mohamedthanzil.m2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0011",
+            "StudentName": "SHIVESH DHAR",
+            "EmailId": "shivesh.dhar2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0017",
+            "StudentName": "RACHIT TIKHE",
+            "EmailId": "rachit.tikhe2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0037",
+            "StudentName": "SUMIT PATIL",
+            "EmailId": "sumit.patil2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0048",
+            "StudentName": "PRACHISH DUBEY",
+            "EmailId": "prachish.dubey2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0052",
+            "StudentName": "DHANUSH S",
+            "EmailId": "dhanush.s2023b@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0065",
+            "StudentName": "ADARSH VARADARAJAN LAKSHMAN",
+            "EmailId": "adarsh.varadarajan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0102",
+            "StudentName": "FRAMROZE SIMONE BURZIN ",
+            "EmailId": "simone.burzin2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0167",
+            "StudentName": "JATIN JARIA",
+            "EmailId": "jatin.jaria2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0180",
+            "StudentName": "RAMESH G",
+            "EmailId": "ramesh.g2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0192",
+            "StudentName": "RIYA JAIN",
+            "EmailId": "riya.jain2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0193",
+            "StudentName": "HIRDAY DUA",
+            "EmailId": "hirday.dua2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0235",
+            "StudentName": "AYUSHMAN MISHRA",
+            "EmailId": "ayushman.mishra2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0246",
+            "StudentName": "DIAS ETHAN JOHN ",
+            "EmailId": "ethanjohn.dias2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0286",
+            "StudentName": "DRISTI KANCHAN SENGUPTA",
+            "EmailId": "dristi.kanchan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0298",
+            "StudentName": "PATIL SIDDHANT DHARMPAL ",
+            "EmailId": "siddhant.dharmpal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0304",
+            "StudentName": "SHIVAM HALAN",
+            "EmailId": "shivam.halan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0319",
+            "StudentName": "RISHIRAJ PRATAP RAGHUVANSHI",
+            "EmailId": "rishiraj.pratap2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0325",
+            "StudentName": "SENGUPTA MAYUKHI SURYA",
+            "EmailId": "mayukhi.sengupta2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0326",
+            "StudentName": "OM R PUJARI",
+            "EmailId": "omrajesh.pujari2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0341",
+            "StudentName": "ARNAV AGARWAL",
+            "EmailId": "arnav.agarwal2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0356",
+            "StudentName": "NIKITHA SHIVAJI NAIR",
+            "EmailId": "nikithashivaji.nair2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0374",
+            "StudentName": "ABHINAV ARYA",
+            "EmailId": "abhinav.arya2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0388",
+            "StudentName": "VIPIN CHANDRAN ",
+            "EmailId": "vipin.chandran2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0406",
+            "StudentName": "ADITYA SATPATHY",
+            "EmailId": "aditya.satpathy2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0407",
+            "StudentName": "SHUBHRONIL BANIK",
+            "EmailId": "shubhronil.banik2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0424",
+            "StudentName": "AAN AHMED",
+            "EmailId": "aan.ahmed2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0426",
+            "StudentName": "ZORAVAR SINGH",
+            "EmailId": "zoravar.singh2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0442",
+            "StudentName": "VEDANT SINGH",
+            "EmailId": "vedant.singh2023b@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0459",
+            "StudentName": "PANCHAGNULA HEMANTH",
+            "EmailId": "panchagnula.hemanth2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0480",
+            "StudentName": "AYUSH KUMAR",
+            "EmailId": "ayush.kumar2023d@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BME0481",
+            "StudentName": "PRANAV SUBHASH",
+            "EmailId": "pranav.subhash2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BML0034",
+            "StudentName": "SALONI RATHI",
+            "EmailId": "saloni.rathi2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BMM0002",
+            "StudentName": "SHARVESH S",
+            "EmailId": "sharvesh.s2023a@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23BMM0065",
+            "StudentName": "SIDDHAUNT SAMHOTRA",
+            "EmailId": "siddhaunt.samhotra2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23MID0302",
+            "StudentName": "SPURTHI R KATOKER",
+            "EmailId": "spurthi.rkatoker2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23MID0325",
+            "StudentName": "NITHIN A S",
+            "EmailId": "nithin.as2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23MID0429",
+            "StudentName": "VINAY VISHWANATHAN",
+            "EmailId": "vinay.vishwanathan2023@vitstudent.ac.in"
+        },
+        {
+            "RegisterNumber": "23MIS0325",
+            "StudentName": "PRAVIN G",
+            "EmailId": "pravin.g2023@vitstudent.ac.in"
+        }
+    ]
+    
+}
