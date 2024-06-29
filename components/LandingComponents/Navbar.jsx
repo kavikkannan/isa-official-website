@@ -90,7 +90,7 @@ const Navbar = () => {
                 <div className="flex flex-col lg:flex-row justify-center items-center">
                     {/* Insert your navigation links/buttons here */}
                     <a
-                        href="#"
+                        href="/Domain_Selection"
                         style={{
                             color: 'black',
                             marginRight: '20px',

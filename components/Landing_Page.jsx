@@ -36,9 +36,9 @@ const LandingPage = () => {
         
                     const isAdmin = adminData.admins.includes(signedInEmail);
                     if (isAdmin) {
-                        router.push('/show_admin');
+                        router.push('/Domain_Selection');
                     } else {
-                        router.push('/show_mem');
+                        router.push('/Domain_Selection');
                     }
                 } else {
                     sessionStorage.setItem('email', null)
@@ -136,7 +136,7 @@ const LandingPage = () => {
                                     onMouseLeave={handleUnderlineErase}
                                     className="inline-flex flex-col h-12 animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-white/60  focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50  hover:text-white/90 transition-all duration-300 ease-in-out"
                                 >
-                                    Sign In with VIT Email !
+                                    Sign In with  Email !
                                     <div
                                         className={`min-h-[0.7px] bg-white/70 transition-all duration-100 ${
                                             isUnderlined ? 'w-full' : 'w-0'
